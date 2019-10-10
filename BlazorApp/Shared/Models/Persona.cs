@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BlazorApp.Shared.NewFolder
+namespace BlazorApp.Shared.Models
 {
     public class Persona
     {
